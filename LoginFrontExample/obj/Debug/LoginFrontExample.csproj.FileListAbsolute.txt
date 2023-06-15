@@ -1,0 +1,10 @@
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\bin\Debug\LoginFrontExample.exe.config
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\bin\Debug\LoginFrontExample.exe
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\bin\Debug\LoginFrontExample.pdb
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\obj\Debug\LoginFrontExample.csprojAssemblyReference.cache
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\obj\Debug\LoginFrontExample.Login.resources
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\obj\Debug\LoginFrontExample.Properties.Resources.resources
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\obj\Debug\LoginFrontExample.csproj.GenerateResource.cache
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\obj\Debug\LoginFrontExample.csproj.CoreCompileInputs.cache
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\obj\Debug\LoginFrontExample.exe
+c:\users\guille\source\repos\LoginFrontExample\LoginFrontExample\obj\Debug\LoginFrontExample.pdb
